@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title">中山大学学生信息系统</string>
+    <string name="学号">学号：</string>
+    <string name="密码">密码：</string>
+    <string name="登陆">登陆</string>
+    <string name="注册">注册</string>
+    <string name="学生">学生</string>
+    <string name="教职工">教职工</string>
+    <string name="请输入学号">请输入学号</string>
+    <string name="上传头像">上传头像</string>
+    <string name="请输入密码">请输入密码</string>
+    <string-array name="stringarray">
+        <item name="拍摄">拍摄</item>
+        <item name="从相册中选择">从相册中选择</item>
+    </string-array>
+</resources>
